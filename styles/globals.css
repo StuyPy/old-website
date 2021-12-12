@@ -14,3 +14,13 @@ a {
 * {
   box-sizing: border-box;
 }
+
+#home-top {
+  padding-top: 100px;
+}
+
+.carousel-inner {
+  min-height: 300px;
+  width: 100%;
+  height: 100%;
+}
