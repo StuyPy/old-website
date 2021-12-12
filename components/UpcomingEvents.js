@@ -1,3 +1,7 @@
 export default function UpcomingEvents() {
-  return <h1>WIP</h1>;
+  return (
+    <div className="container">
+      <h1>WIP</h1>
+    </div>
+  );
 }
