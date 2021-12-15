@@ -11,11 +11,6 @@ export default function Home() {
     <>
       <Menu />
       <HomeTop />
-
-      <main className={styles.main}>
-        <h1 className={styles.title}>StuyPy</h1>
-      </main>
-
       <UpcomingEvents />
       <Resources />
       <Footer />
