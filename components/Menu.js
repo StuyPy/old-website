@@ -5,7 +5,7 @@ import logo from '../public/images/StuyPyTransparent.png';
 
 export default function Menu() {
   return (
-    <section className="main-bg fixed-top">
+    <section className="main-bg fixed-top shadow">
       <div className="container">
         <nav className="navbar navbar-expand-md navbar-light">
           <Image src={logo} alt="StuyPy Logo" width="70" height="70" />
