@@ -11,7 +11,8 @@ export default function Home() {
     <>
       <Menu />
       <HomeTop />
-      <UpcomingEvents />
+      {//<UpcomingEvents />
+	  }
       <Resources />
       <Footer />
     </>
