@@ -17,6 +17,9 @@ export default function HomeTop() {
               		alt="First slide"
               		layout="responsive"
             	/>
+				<div class="carousel-caption d-none d-md-block">
+					<h1 className="center align-middle">hi</h1>
+				</div>
 				</div>
 				<div className="carousel-item home-top-image">
 				<Image
